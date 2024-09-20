@@ -6,11 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-
 import com.cinema.database.PgSqlConnectionFactory;
-import com.cinema.model.Cinema;
-import com.cinema.model.Customer;
-import com.cinema.model.Movie;
 import com.cinema.model.PaymentMethod;
 
 public class PaymentMethodDao extends AbstractDao<PaymentMethod>{

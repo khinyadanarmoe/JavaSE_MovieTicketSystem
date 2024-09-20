@@ -9,8 +9,7 @@ import java.util.List;
 
 import com.cinema.database.PgSqlConnectionFactory;
 import com.cinema.model.Cinema;
-import com.cinema.model.Customer;
-import com.cinema.model.Movie;
+
 
 public class CinemaDao extends AbstractDao<Cinema>{
 	private PgSqlConnectionFactory connectionFactory;

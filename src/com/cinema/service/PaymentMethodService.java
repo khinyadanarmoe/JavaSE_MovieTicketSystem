@@ -5,10 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.SQLException;
 import java.util.List;
-
-import com.cinema.dao.MovieDao;
 import com.cinema.dao.PaymentMethodDao;
-import com.cinema.model.Movie;
 import com.cinema.model.PaymentMethod;
 
 public class PaymentMethodService {

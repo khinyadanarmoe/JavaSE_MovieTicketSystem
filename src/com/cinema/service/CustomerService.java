@@ -7,7 +7,6 @@ import java.sql.SQLException;
 import java.util.List;
 
 import com.cinema.dao.CustomerDao;
-import com.cinema.dao.MovieDao;
 import com.cinema.model.Customer;
 
 public class CustomerService {

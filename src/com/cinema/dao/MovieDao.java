@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.cinema.database.PgSqlConnectionFactory;
-import com.cinema.model.Customer;
 import com.cinema.model.Movie;
 
 public class MovieDao extends AbstractDao<Movie>{
